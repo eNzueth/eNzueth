@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @eNzueth
+- 🦊 I'm migrating from Gitlab to Github
 - 👀 I’m interested in blockchain ecosystem
 - 🌱 I’m currently learning Vyper and solidity
 
